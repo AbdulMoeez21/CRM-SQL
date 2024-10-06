@@ -2,6 +2,7 @@ Here are 30  data engineering queries for the provided dataset:
 
 
 Retrieve all products with a stock quantity of less than 50.
+
 Find all customers who have made a payment.
 List all employees working in the 'USA' office.
 Retrieve all orders that have a status of 'Cancelled'.
